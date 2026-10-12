@@ -24,4 +24,5 @@ My projects will be documented here as I build and improve them.
 
 ## Connect
 
-- GitHub: https://github.com/USERNAME
+- GitHub: https://github.com/Tristaniko
+  
